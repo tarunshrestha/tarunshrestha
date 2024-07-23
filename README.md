@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Aayulogic**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Django & Vue Js**
 
 - 📫 How to reach me **tarunshrestha90@gmail.com**
 
