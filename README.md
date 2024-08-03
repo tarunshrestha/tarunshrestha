@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunshrestha" alt="tarunshrestha" /></a> </p>
 
-- 🔭 I’m currently working on **Aayulogic**
-
 - 🌱 I’m currently learning **Django & React**
 
 - 📫 How to reach me **tarunshrestha90@gmail.com**
